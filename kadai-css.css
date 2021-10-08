@@ -1,0 +1,33 @@
+
+header {
+    background-color: #ffcccc;
+    width: 1000px;
+}
+
+header p {
+    margin: 0;
+}
+
+#main {
+    background-color: #ccffcc;
+    width: 700px;
+}
+
+#menu {
+    background-color: #ccccff;
+    width: 300px;
+}
+
+#wrapper {
+    display: flex;
+    width: 1000px;
+}
+
+footer {
+    background-color: #ffccff;
+    width: 1000px;
+}
+
+footer p {
+    margin: 0;
+}
